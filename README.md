@@ -4,6 +4,9 @@
 <p>Around this time it helps to pick up a new hobby... like coding... which will also probably make life easier... in the future</p>
 <p>#LazyPersonTips</p>
 <p>Okay time to pick up another topic.</p>
+
+<a href="https://www.instagram.com/mahno_or.a/">Instagram</a>
+
 <p>My dad quit his job to start his own business and life is life-ing... its going pretty well now though so if you need to be reminded: Life always gets better</p>
 <p>If you ever see this... go check his work out at <a href="https://www.fractalmetrics.co/">FractalMetrics</a></p>
 <h4>Thanks</h4>
@@ -18,3 +21,5 @@
   <li>Trained in kickboxing by UAE's national champion</li>
 </ul>
 <p>the last one is probs my biggest boast</p>
+<hr>
+<p>Contact me at: <a href="">miliua.adn@gmail.com</a>
